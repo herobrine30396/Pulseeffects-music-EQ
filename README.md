@@ -13,5 +13,8 @@ This should work with distros like Ubuntu, Debian, RHEL.
 * Great sound with amazing quality
 * Bass boosted
 
+# Note
+If you have a better preset, please feel free to create a pull request.
+
 # Acknowledgement
 Made by Herobrine30396
