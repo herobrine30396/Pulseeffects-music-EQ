@@ -41,6 +41,6 @@ install_presets(){
             echo "Done!"
 }
 
-check_installation
+check_type
 check_impulse_directory
 install_presets
