@@ -5,7 +5,7 @@ Pulseeffects-music-EQ is a music-based preset for pulseeffects.
 1. Install Pulseeffects.
 2. Run this command:
 ```
-wget -P ~/.config/PulseEffects/output/ https://raw.githubusercontent.com/herobrine30396/Pulseeffects-music-EQ/main/MusicX1.json
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/herobrine30396/Pulseeffects-music-EQ/main/install.sh)"
 ```
 This should work with distros like Ubuntu, Debian, RHEL.
 
@@ -18,4 +18,4 @@ If you have a better preset, please feel free to create a pull request.
 As of now the convolver doesn't work
 
 # Acknowledgement
-Made by Herobrine30396
+Made by Herobrine30396, Impulse files by JackHack96
