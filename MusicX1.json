@@ -543,7 +543,7 @@
             "state": "true",
             "input-gain": "-2",
             "output-gain": "0",
-            "kernel-path": "~/.config\/PulseEffects\/irs\/MaxxAudio Pro ((128K MP3)) 4.Music w MaxxSpace.irs",
+            "kernel-path": "\/home\/niel\/.config\/PulseEffects\/irs\/Razor Surround ((48k Z-Edition)) 2.Stereo +20 bass.irs",
             "ir-width": "100"
         },
         "crystalizer": {
