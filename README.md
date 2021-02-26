@@ -15,6 +15,7 @@ This should work with distros like Ubuntu, Debian, RHEL.
 
 # Note
 If you have a better preset, please feel free to create a pull request.
+As of now the convolver doesn't work
 
 # Acknowledgement
 Made by Herobrine30396
