@@ -7,7 +7,7 @@ Pulseeffects-music-EQ is a music-based preset for pulseeffects.
 ```
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/herobrine30396/Pulseeffects-music-EQ/main/install.sh)"
 ```
-This should work with distros like Ubuntu, Debian, RHEL.
+3. Done! Now you can listen to your music with crisp sound and good bass
 
 # Features
 * Great sound with amazing quality
