@@ -38,6 +38,7 @@ install_presets(){
             curl "https://raw.githubusercontent.com/JackHack96/PulseEffects-Presets/master/irs/Creative%20X-Fi%20((Z-Edition))%20Crystalizer%2010%20%2B%20Expand%2010.irs" --output "$PRESETS_DIRECTORY/irs/Creative X-Fi ((Z-Edition)) Crystalizer 10 + Expand 10.irs" --silent
             curl "https://raw.githubusercontent.com/JackHack96/PulseEffects-Presets/master/irs/HTC%20Beats%20Audio%20((Z-Edition)).irs" --output "$PRESETS_DIRECTORY/irs/HTC Beats Audio ((Z-Edition)).irs" --silent
             curl "https://raw.githubusercontent.com/JackHack96/PulseEffects-Presets/master/irs/Waves%20MaxxAudio%20((Z-Edition))%20AudioWizard%201.Music.irs" --output "$PRESETS_DIRECTORY/irs/Waves MaxxAudio ((Z-Edition)) AudioWizard 1.Music.irs" --silent
+            sed -i 's/niel/'"$USER"'/g' "$PRESETS_DIRECTORY/output/MusicX1.json"
             echo "Done!"
 }
 
