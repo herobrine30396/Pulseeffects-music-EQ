@@ -30,7 +30,7 @@
     },
     "output": {
         "blocklist": [
-            
+            "Virtual Surround Sink Stream from VirtualSurround"
         ],
         "plugins_order": [
             "limiter",
@@ -58,11 +58,11 @@
             "state": "true",
             "input-gain": "-1",
             "output-gain": "0",
-            "amount": "3.5000000000000013",
+            "amount": "4.9999999999999982",
             "harmonics": "8.5",
             "scope": "100",
             "floor": "20",
-            "blend": "0",
+            "blend": "2",
             "floor-active": "false",
             "listen": "false"
         },
