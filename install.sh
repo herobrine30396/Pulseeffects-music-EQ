@@ -20,7 +20,8 @@ check_impulse_directory() {
 
 install_presets(){
             echo "Installing MusicX1"
-            curl "https://raw.githubusercontent.com/herobrine30396/Pulseeffects-music-EQ/main/MusicX1-for-headphones.json" --output "$PRESETS_DIRECTORY/output/MusicX1.json" --silent
+            curl "https://raw.githubusercontent.com/herobrine30396/Pulseeffects-music-EQ/main/MusicX1-Headphones.json" --output "$PRESETS_DIRECTORY/output/MusicX1-Headphones.json" --silent
+            curl "https://raw.githubusercontent.com/herobrine30396/Pulseeffects-music-EQ/main/MusicX1-Laptop.json" --output "$PRESETS_DIRECTORY/output/MusicX1-Laptop.json" --silent
             echo "Installing impulse files"
             curl "https://raw.githubusercontent.com/JackHack96/PulseEffects-Presets/master/irs/Dolby%20ATMOS%20((128K%20MP3))%201.Default.irs" --output "$PRESETS_DIRECTORY/irs/Dolby ATMOS ((128K MP3)) 1.Default.irs" --silent
             curl "https://raw.githubusercontent.com/JackHack96/PulseEffects-Presets/master/irs/MaxxAudio%20Pro%20((128K%20MP3))%204.Music%20w%20MaxxSpace.irs" --output "$PRESETS_DIRECTORY/irs/MaxxAudio Pro ((128K MP3)) 4.Music w MaxxSpace.irs" --silent
