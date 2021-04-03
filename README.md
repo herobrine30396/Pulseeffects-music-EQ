@@ -1,5 +1,5 @@
 # What is Pulseeffects-music-EQ?
-Pulseeffects-music-EQ is a music-based preset for pulseeffects.
+Pulseeffects-music-EQ is a music-based preset for pulseeffect.
 
 # Installation
 1. Install Pulseeffects.
